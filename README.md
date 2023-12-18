@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolas Avila
 - 👀 I’m interested in Front End 
-- 🌱 I’m currently learning JavasCript
+- 🌱 I’m currently learning JavasCript & React.
 - 💞️ I’m looking to collaborate on proyects and practice.
 - 📫 How to reach me ... https://www.instagram.com/nicolas.avila89/
 
